@@ -29,7 +29,7 @@ The full analysis can be executed from the notebook.
 
 ## Results <a name="results"></a>
 
-The results can viewed in detail from the Jupyter Notebook provided in this repository, or in summary form in the medium article linked [here:](https://tomwerner5.medium.com/how-to-be-a-world-class-professor-3da41025e6c6).
+The results can viewed in detail from the Jupyter Notebook provided in this repository, or in summary form in the medium article linked [here](https://tomwerner5.medium.com/how-to-be-a-world-class-professor-3da41025e6c6).
 
 ## Licensing and Acknowledgements<a name="licensing"></a>
 
